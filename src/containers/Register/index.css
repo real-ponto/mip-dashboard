@@ -1,0 +1,26 @@
+.registerForm{
+  height: 250px;
+  width: 650px;
+}
+.employeeCard {
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
+  border-radius: 2px;
+  padding: 12px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 10px
+}
+
+.card-employee-title {
+  color: #858c8f;
+  font-weight: bold;
+  width: 100%;
+}
+
+.card-employee-body {
+  width: 65%;
+}
